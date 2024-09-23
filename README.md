@@ -6,3 +6,17 @@ A pet project in the form of an unobtrusive, toolbar/widget-based torrenting tra
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 <img src="GitHubAssets/githubpreviewanimated30.gif" width="50%"/>
+
+## Features
+### Current:
+- Toolbar presence w/ refreshing summary data on close & re-open
+- A minimalistic (lazy) UI
+- QBittorrent WebUI host address, username, and password log-in
+### Planned:
+- A minimalistic desktop widget
+- "Live" QBittorrent information updates in-client
+- An intuitive and improved UI
+- A mild torrenting statistics visualization menu
+### Don't hold your breath for:
+- QBittorrent client management
+- Updates, honestly
