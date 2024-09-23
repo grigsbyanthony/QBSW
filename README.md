@@ -4,6 +4,8 @@ A pet project in the form of an unobtrusive, toolbar/widget-based torrenting tra
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Static Badge](https://img.shields.io/badge/Status-Incomplete-red)
+![Static Badge](https://img.shields.io/badge/Version-1.0-blue)
 
 <img src="GitHubAssets/githubpreviewanimated30.gif" width="50%"/>
 
