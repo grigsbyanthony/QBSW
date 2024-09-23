@@ -1,6 +1,6 @@
 # 🌱 QBTW | A Terrible QBittorrent Seed-tracking Widget <a href="https://github.com/grigsbyanthony/QBSW"><img src="GitHubAssets/logo_nonsize-transformed.png" align="right" height="100" /></a>
 
-A pet project in the form of an unobtrusive, toolbar/widget-based torrenting tracker for QBittorrent users. An excellent excuse to learn Swift, more than anything. For use in pulling large archived files from a storage server.
+A pet project in the form of an unobtrusive, toolbar/widget-based torrenting tracker for QBittorrent users. An excellent excuse to learn Swift, more than anything. A general, personal utility for data retrieval from things like archive.org (data hoarding).
 
 ![Static Badge](https://img.shields.io/badge/Status-Incomplete-red)
 ![Static Badge](https://img.shields.io/badge/Version-1.0-blue)
