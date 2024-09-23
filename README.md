@@ -1,4 +1,4 @@
-# QBSW<a href="https://github.com/grigsbyanthony/QBSW"><img src="GitHubAssets/logo_nonsize-transformed.png" align="right" height="100" /></a>
+# QBTW | A QBittorrent Widget<a href="https://github.com/grigsbyanthony/QBSW"><img src="GitHubAssets/logo_nonsize-transformed.png" align="right" height="100" /></a>
 
 A pet project in the form of an unobtrusive, toolbar/widget-based torrenting tracker for QBittorrent users. An excellent excuse to learn Swift, more than anything.
 
